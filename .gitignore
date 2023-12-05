@@ -164,5 +164,4 @@ cython_debug/
 langchain-docs/
 
 # configuration
-.idea/
 .DS_Store
